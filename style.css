@@ -134,6 +134,24 @@ body {
   box-shadow: 0 20px 60px rgba(0,119,182,0.15);
 }
 
+.btn-outline {
+  display: block;
+  text-align: center;
+  background: rgba(255,255,255,0.1);
+  border: 1px solid var(--glass-border);
+  color: var(--white);
+  padding: 0.6rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 600;
+  transition: background 0.3s, transform 0.3s;
+}
+.btn-outline:hover {
+  background: rgba(255,255,255,0.2);
+  transform: translateY(-2px);
+}
+
 /* ── FLIGHT CARD ── */
 .flight-grid { display: grid; grid-template-columns: 1fr auto 1fr; gap: 1rem; align-items: center; }
 .flight-point { text-align: center; }
