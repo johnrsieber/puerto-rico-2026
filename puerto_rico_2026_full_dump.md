@@ -131,15 +131,15 @@ e:\OneDrive\Documents\Travel\2026 - Puerto Rico\
 
 ### Day 2 — Thursday, July 30: ⛵ Private Catamaran
 - Private 38-foot Lagoon 380 sailing catamaran with Captain Iván
-- 5 hours, 4 guests (exclusively ours)
+- 6 hours, 4 guests (exclusively ours)
 - **Marina:** Puerto del Rey, Fajardo (45 min drive)
-- **Schedule:** Meet 8:30 AM, depart 9 AM, return 2 PM
+- **Schedule:** Meet 8:30 AM, depart 9 AM, return 3 PM
 - **Destinations:** Palomino Island or Piñeros Island (La Cordillera Nature Reserve)
 - **Included:** BBQ lunch, beer, wine, homemade sangría, snorkeling gear, insurance
 - **The Boat:** 1,000+ sq ft deck, trampoline, cabin, 2 bathrooms with showers
 - **Captain:** USCG-certified, 4.9★ rating, 59 reviews, 175 bookings
 - **Booking:** [GetMyBoat](https://www.getmyboat.com/trips/dakd43MY/)
-- **Cost:** ~$1,596 total = ~$798/couple
+- **Cost:** ~$1,820 total = ~$910/couple
 - **What to bring:** Swimsuit underneath, change of clothes, towels, comfy footwear, sunblock, hats with chin straps
 - **Dinner pick:** Santaella (Santurce, tapas, near La Placita nightlife)
 
