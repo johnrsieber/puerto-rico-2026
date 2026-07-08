@@ -140,7 +140,7 @@ e:\OneDrive\Documents\Travel\2026 - Puerto Rico\
 - **Booking:** [GetMyBoat](https://www.getmyboat.com/trips/dakd43MY/)
 - **Cost:** **Booked!** $2,274 total = $1,137/couple
 - **What to bring:** Swimsuit underneath, change of clothes, towels, comfy footwear, sunblock, hats with chin straps
-- **Dinner pick:** Santaella (Santurce, tapas, near La Placita nightlife)
+- **Dinner pick:** Cocina Abierta (Condado, global fusion, outdoor terrace)
 
 ### Day 3 — Friday, July 31: 🌿 El Yunque Rainforest
 - Only tropical rainforest in the US National Forest System
@@ -150,16 +150,16 @@ e:\OneDrive\Documents\Travel\2026 - Puerto Rico\
 - **Juan Diego Falls:** Waterfalls and pools you can swim in. Parking is very hard when full (30-min limit).
 - **Yokahu Tower:** Panoramic views; on clear days, see the Virgin Islands
 - **Luquillo Kiosks (Lunch):** Famous strip of 60+ beachside food vendors just outside the forest
-- **Evening:** Head to Old San Juan for **The Spoon Experience Walk & Taste Tour**. A perfect blend of history, architecture, local cocktails, and plenty of food! (Replaces a sit-down dinner).
+- **Afternoon:** Head back to the hotel to clean up and relax.
+- **Evening (4:00 PM - 7:00 PM):** **Sunset Walk & Taste Food Tour** with The Spoon Experience in Old San Juan. (Replaces a sit-down dinner).
 - **Transport:** Rent a car for the day (Ubers cannot pick up inside the forest).
 - **Cost:** ~$150–$250/couple (transport, park entry, lunch)
-- **Evening Activity:** The Spoon Experience (Sunset/Evening Walk and Taste Tour)
 
 ### Day 4 — Saturday, August 1: 🏖️ Pure Beach Day
 - Full day at Isla Verde Beach — resort chairs, swim-up bar, 4 pools
 - Optional: rent a cabana, jet ski, parasail
 - Afternoon spa at Well & Being
-- **Afternoon Excursion:** Take a short Uber into Old San Juan for shopping or to Casa Bacardí for a rum tour/tasting before dinner.
+- **Afternoon Excursion:** Take a short Uber into Old San Juan to tour El Morro (the fort) and see the historic sights before dinner.
 - **Farewell dinner:** Casita Miramar (authentic Puerto Rican comfort food, romantic vintage house, smart casual)
 - **Nightlife:** Club Brava at the Fairmont (no Uber needed)
 
@@ -188,12 +188,12 @@ All restaurants are within 10–25 min Uber from the Fairmont. The website expli
 ### Night 2 (Thu, Jul 30) — After Catamaran
 | | |
 |---|---|
-| **Pick** | **Santaella** |
-| Why | Vibrant tapas in Santurce. Chef trained with Ferran Adrià and Eric Ripert. Near La Placita for post-dinner nightlife |
+| **Pick** | **Cocina Abierta** |
+| Why | Energetic global fusion with a beautiful outdoor terrace and open kitchen. Relaxed but sophisticated. |
 | Price | $$$ |
-| Location | Santurce (~15 min Uber) |
-| Reservations | [josesantaella.com](https://josesantaella.com) |
-| **Backup** | Cocina Abierta (also Santurce, farm-to-table tasting menu) — [cocinaabierta.net](https://www.cocinaabierta.net/) |
+| Location | Condado (~12 min Uber) |
+| Reservations | [cocinaabierta.net](https://www.cocinaabierta.net/) |
+| **Backup** | Santaella (Santurce, tapas, party vibe near La Placita) — [josesantaella.com](https://josesantaella.com) |
 
 ### Night 3 (Fri, Jul 31) — After El Yunque
 | | |
@@ -202,7 +202,7 @@ All restaurants are within 10–25 min Uber from the Fairmont. The website expli
 | Why | Replaces a sit-down dinner with a fun, lively walking tour of Old San Juan. Includes history, architecture, local food (mofongo!), and cocktails. Wear comfy walking shoes (no heels!). |
 | Price | $$$ |
 | Location | Old San Juan (~15 min Uber) |
-| Reservations | [thespoonexperience.com](https://thespoonexperience.com) — book the Sunset/Evening Walk and Taste Tour |
+| Reservations | **Booked!** ($706.28 total for 4 adults) |
 
 ### Night 4 (Sat, Aug 1) — Farewell Dinner
 | | |
@@ -236,15 +236,15 @@ Based on the **Standard King** room:
 
 | Item | Amount |
 |------|--------|
-| ✈️ Flights (AUS ↔ SJU × 2) | $1,412 |
-| 🏨 Hotel — Standard King, 4 nights | $1,841 |
-| 📋 Hotel taxes (approx.) | ~$154 |
-| ⛵ Catamaran — split 2 couples | ~$798 |
-| 🌿 El Yunque day | $150–$250 |
-| 🍽️ Dinners, lunches, drinks | $500–$800 |
-| 🛡️ Trip insurance (optional) | ~$460 |
+| ✈️ Flights | Booked separately |
+| 🏨 Hotel | Booked separately |
+| ⛵ **Pre-Booked Excursions (Split per couple)** | **$1,490.14** |
+| └ Catamaran ($2,274 total) | |
+| └ Food Tour ($706.28 total) | |
+| 🚗 Rental Car (El Yunque Day) | TBD |
+| 🌿 El Yunque park entry & lunch | $100–$150 |
+| 🍽️ Dinners, lunches, drinks | $400–$600 |
 | 🚗 Ubers, tips, incidentals | $200–$300 |
-| **TOTAL** | **$5,515 – $6,015** |
 
 **Upgrade option:** Oceanside Villa Terrace adds ~$1,272/couple (527 sq ft, private terrace, steps from sand).
 
