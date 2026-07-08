@@ -211,7 +211,7 @@ All restaurants are within 10–25 min Uber from the Fairmont. The website expli
 | Why | The perfect "fun but nice" farewell. Romantic, greenery-filled vintage Spanish house serving elevated, authentic Puerto Rican comfort food. Perfect for smart casual/sundresses. |
 | Price | $$$ |
 | Location | Miramar (~12 min Uber) |
-| Reservations | OpenTable or website — book ASAP |
+| Reservations | **Booked!** (7:30 PM, 4 Guests, Dining Room) |
 
 ---
 
