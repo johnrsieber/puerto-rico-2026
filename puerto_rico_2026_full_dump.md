@@ -140,7 +140,7 @@ e:\OneDrive\Documents\Travel\2026 - Puerto Rico\
 - **Booking:** [GetMyBoat](https://www.getmyboat.com/trips/dakd43MY/)
 - **Cost:** **Booked!** $2,274 total = $1,137/couple
 - **What to bring:** Swimsuit underneath, change of clothes, towels, comfy footwear, sunblock, hats with chin straps
-- **Dinner pick:** Cocina Abierta (Condado, global fusion, outdoor terrace)
+- **Dinner pick:** Princesa - Cocina Cultura (Old San Juan, authentic 19th-century PR cuisine)
 
 ### Day 3 — Friday, July 31: 🌿 El Yunque Rainforest
 - Only tropical rainforest in the US National Forest System
@@ -188,12 +188,11 @@ All restaurants are within 10–25 min Uber from the Fairmont. The website expli
 ### Night 2 (Thu, Jul 30) — After Catamaran
 | | |
 |---|---|
-| **Pick** | **Cocina Abierta** |
-| Why | Energetic global fusion with a beautiful outdoor terrace and open kitchen. Relaxed but sophisticated. |
+| **Pick** | **Princesa - Cocina Cultura** |
+| Why | Located on the scenic Paseo de la Princesa, featuring authentic 19th-century Puerto Rican cuisine and a magical setting. |
 | Price | $$$ |
-| Location | Condado (~12 min Uber) |
-| Reservations | [cocinaabierta.net](https://www.cocinaabierta.net/) |
-| **Backup** | Santaella (Santurce, tapas, party vibe near La Placita) — [josesantaella.com](https://josesantaella.com) |
+| Location | Old San Juan (~15 min Uber) |
+| Reservations | **Booked!** (8:00 PM, 4 Guests, Main Room-Indoor) |
 
 ### Night 3 (Fri, Jul 31) — After El Yunque
 | | |
