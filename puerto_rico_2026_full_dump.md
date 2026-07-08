@@ -150,17 +150,17 @@ e:\OneDrive\Documents\Travel\2026 - Puerto Rico\
 - **Juan Diego Falls:** Waterfalls and pools you can swim in. Parking is very hard when full (30-min limit).
 - **Yokahu Tower:** Panoramic views; on clear days, see the Virgin Islands
 - **Luquillo Kiosks (Lunch):** Famous strip of 60+ beachside food vendors just outside the forest
-- **Afternoon Options:** Head back to the resort for pool time, OR drive straight to Old San Juan to walk Paseo de la Princesa and see El Morro before our dinner at Marmalade.
+- **Evening:** Head to Old San Juan for **The Spoon Experience Walk & Taste Tour**. A perfect blend of history, architecture, local cocktails, and plenty of food! (Replaces a sit-down dinner).
 - **Transport:** Rent a car for the day (Ubers cannot pick up inside the forest).
 - **Cost:** ~$150–$250/couple (transport, park entry, lunch)
-- **Dinner pick:** Marmalade Restaurant & Wine Bar (Old San Juan, 5-course tasting menu)
+- **Evening Activity:** The Spoon Experience (Sunset/Evening Walk and Taste Tour)
 
 ### Day 4 — Saturday, August 1: 🏖️ Pure Beach Day
 - Full day at Isla Verde Beach — resort chairs, swim-up bar, 4 pools
 - Optional: rent a cabana, jet ski, parasail
 - Afternoon spa at Well & Being
 - **Afternoon Excursion:** Take a short Uber into Old San Juan for shopping or to Casa Bacardí for a rum tour/tasting before dinner.
-- **Farewell dinner:** 1919 Restaurant at the Condado Vanderbilt (book well in advance!)
+- **Farewell dinner:** Casita Miramar (authentic Puerto Rican comfort food, romantic vintage house, smart casual)
 - **Nightlife:** Club Brava at the Fairmont (no Uber needed)
 
 ### Day 5 — Sunday, August 2: ✈️ Fly Home
@@ -198,21 +198,20 @@ All restaurants are within 10–25 min Uber from the Fairmont. The website expli
 ### Night 3 (Fri, Jul 31) — After El Yunque
 | | |
 |---|---|
-| **Pick** | **Marmalade Restaurant & Wine Bar** |
-| Why | San Juan's crown jewel. Customizable 5-course tasting menu. Famous Tiny White Bean Soup with truffle oil. Wine Spectator recognized |
-| Price | $$$$ |
+| **Pick** | **The Spoon Experience Walk & Taste Tour** |
+| Why | Replaces a sit-down dinner with a fun, lively walking tour of Old San Juan. Includes history, architecture, local food (mofongo!), and cocktails. Wear comfy walking shoes (no heels!). |
+| Price | $$$ |
 | Location | Old San Juan (~15 min Uber) |
-| Reservations | [marmaladepr.com](https://marmaladepr.com) — book well in advance |
-| **Backup** | Platos Restaurant & Bar (Isla Verde, ~5 min Uber, more casual) |
+| Reservations | [thespoonexperience.com](https://thespoonexperience.com) — book the Sunset/Evening Walk and Taste Tour |
 
 ### Night 4 (Sat, Aug 1) — Farewell Dinner
 | | |
 |---|---|
-| **Pick** | **1919 at the Condado Vanderbilt** |
-| Why | Top-rated fine dining in the Caribbean. Forbes Travel Guide recognized. Caribbean-European fusion. Built in 1919 |
-| Price | $$$$ |
-| Location | Condado (~10 min Uber) |
-| Reservations | [condadovanderbilt.com](https://condadovanderbilt.com) — book ASAP, especially Saturday |
+| **Pick** | **Casita Miramar** |
+| Why | The perfect "fun but nice" farewell. Romantic, greenery-filled vintage Spanish house serving elevated, authentic Puerto Rican comfort food. Perfect for smart casual/sundresses. |
+| Price | $$$ |
+| Location | Miramar (~12 min Uber) |
+| Reservations | OpenTable or website — book ASAP |
 
 ---
 
