@@ -126,20 +126,19 @@ e:\OneDrive\Documents\Travel\2026 - Puerto Rico\
 - Land at SJU at 3:47 PM, 10-min ride to hotel
 - Check into Fairmont El San Juan
 - Beach welcome toast with the crew
-- Birthday dinner on property **or other fun restaurant**
-- **Dinner pick:** Caña by José Enrique (on-property, James Beard finalist)
+- **Birthday Dinner (Booked for 7:30 PM):** Caña by José Enrique (on-property, James Beard finalist)
 
 ### Day 2 — Thursday, July 30: ⛵ Private Catamaran
 - Private 38-foot Lagoon 380 sailing catamaran with Captain Iván
-- 6 hours, 4 guests (exclusively ours)
+- 8 hours, 4 guests (exclusively ours)
 - **Marina:** Puerto del Rey, Fajardo (45 min drive)
-- **Schedule:** Meet 8:30 AM, depart 9 AM, return 3 PM
+- **Schedule:** Meet 8:30 AM, depart 9 AM, return 5 PM
 - **Destinations:** Palomino Island or Piñeros Island (La Cordillera Nature Reserve)
 - **Included:** BBQ lunch, beer, wine, homemade sangría, snorkeling gear, insurance
 - **The Boat:** 1,000+ sq ft deck, trampoline, cabin, 2 bathrooms with showers
 - **Captain:** USCG-certified, 4.9★ rating, 59 reviews, 175 bookings
 - **Booking:** [GetMyBoat](https://www.getmyboat.com/trips/dakd43MY/)
-- **Cost:** ~$1,820 total = ~$910/couple
+- **Cost:** **Booked!** $2,274 total = $1,137/couple
 - **What to bring:** Swimsuit underneath, change of clothes, towels, comfy footwear, sunblock, hats with chin straps
 - **Dinner pick:** Santaella (Santurce, tapas, near La Placita nightlife)
 
@@ -151,7 +150,7 @@ e:\OneDrive\Documents\Travel\2026 - Puerto Rico\
 - **Juan Diego Falls:** Waterfalls and pools you can swim in. Parking is very hard when full (30-min limit).
 - **Yokahu Tower:** Panoramic views; on clear days, see the Virgin Islands
 - **Luquillo Kiosks (Lunch):** Famous strip of 60+ beachside food vendors just outside the forest
-- Back at resort by mid-afternoon for pool time
+- **Afternoon Options:** Head back to the resort for pool time, OR drive straight to Old San Juan to walk Paseo de la Princesa and see El Morro before our dinner at Marmalade.
 - **Transport:** Rent a car for the day (Ubers cannot pick up inside the forest).
 - **Cost:** ~$150–$250/couple (transport, park entry, lunch)
 - **Dinner pick:** Marmalade Restaurant & Wine Bar (Old San Juan, 5-course tasting menu)
@@ -160,6 +159,7 @@ e:\OneDrive\Documents\Travel\2026 - Puerto Rico\
 - Full day at Isla Verde Beach — resort chairs, swim-up bar, 4 pools
 - Optional: rent a cabana, jet ski, parasail
 - Afternoon spa at Well & Being
+- **Afternoon Excursion:** Take a short Uber into Old San Juan for shopping or to Casa Bacardí for a rum tour/tasting before dinner.
 - **Farewell dinner:** 1919 Restaurant at the Condado Vanderbilt (book well in advance!)
 - **Nightlife:** Club Brava at the Fairmont (no Uber needed)
 
