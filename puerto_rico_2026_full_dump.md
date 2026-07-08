@@ -126,7 +126,7 @@ e:\OneDrive\Documents\Travel\2026 - Puerto Rico\
 - Land at SJU at 3:47 PM, pick up Avis rental car, 10-min ride to hotel
 - Check into Fairmont El San Juan
 - Beach welcome toast with the crew
-- **Birthday Dinner (Booked for 7:30 PM):** Caña by José Enrique (on-property, James Beard finalist)
+- **Birthday Dinner (Booked for 7:30 PM, Outdoor Seating):** Caña by José Enrique (on-property, James Beard finalist)
 
 ### Day 2 — Thursday, July 30: ⛵ Private Catamaran
 - Private 38-foot Lagoon 380 sailing catamaran with Captain Iván
@@ -140,7 +140,7 @@ e:\OneDrive\Documents\Travel\2026 - Puerto Rico\
 - **Booking:** [GetMyBoat](https://www.getmyboat.com/trips/dakd43MY/)
 - **Cost:** **Booked!** $2,274 total = $1,137/couple
 - **What to bring:** Swimsuit underneath, change of clothes, towels, comfy footwear, sunblock, hats with chin straps
-- **Dinner pick:** Princesa - Cocina Cultura (Old San Juan, authentic 19th-century PR cuisine)
+- **Dinner pick:** Princesa - Cocina Cultura (Old San Juan, Booked for 8:00 PM via tableagent.com)
 
 ### Day 3 — Friday, July 31: 🌿 El Yunque Rainforest
 - Only tropical rainforest in the US National Forest System
@@ -151,7 +151,7 @@ e:\OneDrive\Documents\Travel\2026 - Puerto Rico\
 - **Yokahu Tower:** Panoramic views; on clear days, see the Virgin Islands
 - **Luquillo Kiosks (Lunch):** Famous strip of 60+ beachside food vendors just outside the forest
 - **Afternoon:** Head back to the hotel to clean up and relax.
-- **Evening (4:00 PM - 7:00 PM):** **Sunset Walk & Taste Food Tour** with The Spoon Experience in Old San Juan. (Replaces a sit-down dinner).
+- **Evening (4:00 PM - 7:00 PM):** **Booked! Sunset Walk & Taste Food Tour** with The Spoon Experience in Old San Juan. Tour starts at 4:00 PM. (Replaces a sit-down dinner).
 - **Transport:** Drive rental car to El Yunque. Drop off car at SJU by 3:00 PM before Ubering to food tour.
 - **Cost:** ~$150–$250/couple (transport, park entry, lunch)
 
@@ -160,7 +160,7 @@ e:\OneDrive\Documents\Travel\2026 - Puerto Rico\
 - Optional: rent a cabana, jet ski, parasail
 - Afternoon spa at Well & Being
 - **Afternoon Excursion:** Take a short Uber into Old San Juan to tour El Morro (the fort) and see the historic sights before dinner.
-- **Farewell dinner:** Casita Miramar (authentic Puerto Rican comfort food, romantic vintage house, smart casual)
+- **Farewell dinner:** Casita Miramar (Booked for 7:30 PM via Resy, authentic Puerto Rican comfort food, romantic vintage house, smart casual)
 - **Nightlife:** Club Brava at the Fairmont (no Uber needed)
 
 ### Day 5 — Sunday, August 2: ✈️ Fly Home
@@ -172,9 +172,9 @@ e:\OneDrive\Documents\Travel\2026 - Puerto Rico\
 
 ---
 
-## 6. Dinner Recommendations
+## 6. Dinner Plans
 
-All restaurants are within 10–25 min Uber from the Fairmont. The website explicitly notes: **"These are suggestions, not set in stone! If anyone finds a restaurant they're dying to try, we're totally open."**
+All dinner reservations have been made! Check the specific details below.
 
 ### Night 1 (Wed, Jul 29) — Birthday Arrival
 | | |
@@ -182,7 +182,7 @@ All restaurants are within 10–25 min Uber from the Fairmont. The website expli
 | **Pick** | **Caña by José Enrique** |
 | Why | On-property at Fairmont — no Uber after travel day. James Beard Award finalist. Modern Puerto Rican cuisine |
 | Price | $$$ |
-| Reservations | [OpenTable](https://www.opentable.com) or [canasanjuan.com](https://canasanjuan.com) |
+| Reservations | **Booked!** (7:30 PM, 4 Guests, Outdoor Seating) via OpenTable / canasanjuan.com |
 | **Backup** | El San Juan Beach Club (also on property, more casual beachfront) |
 
 ### Night 2 (Thu, Jul 30) — After Catamaran
@@ -191,8 +191,8 @@ All restaurants are within 10–25 min Uber from the Fairmont. The website expli
 | **Pick** | **Princesa - Cocina Cultura** |
 | Why | Located on the scenic Paseo de la Princesa, featuring authentic 19th-century Puerto Rican cuisine and a magical setting. |
 | Price | $$$ |
-| Location | Old San Juan (~15 min Uber) |
-| Reservations | **Booked!** (8:00 PM, 4 Guests, Main Room-Indoor) |
+| Location | Calle Shurmberg, San Juan 00901, Edif. #1 Paseo de la Princesa (~15 min Uber) |
+| Reservations | **Booked!** (8:00 PM, 4 Guests, Main Room-Indoor via tableagent.com) |
 
 ### Night 3 (Fri, Jul 31) — After El Yunque
 | | |
@@ -200,8 +200,8 @@ All restaurants are within 10–25 min Uber from the Fairmont. The website expli
 | **Pick** | **The Spoon Experience Walk & Taste Tour** |
 | Why | Replaces a sit-down dinner with a fun, lively walking tour of Old San Juan. Includes history, architecture, local food (mofongo!), and cocktails. Wear comfy walking shoes (no heels!). |
 | Price | $$$ |
-| Location | Old San Juan (~15 min Uber) |
-| Reservations | **Booked!** ($706.28 total for 4 adults) |
+| Location | Old San Juan (~15 min Uber) - Meeting location in tickets |
+| Reservations | **Booked!** ($706.28 total for 4 adults). Tour starts at 4:00 PM. |
 
 ### Night 4 (Sat, Aug 1) — Farewell Dinner
 | | |
@@ -209,8 +209,8 @@ All restaurants are within 10–25 min Uber from the Fairmont. The website expli
 | **Pick** | **Casita Miramar** |
 | Why | The perfect "fun but nice" farewell. Romantic, greenery-filled vintage Spanish house serving elevated, authentic Puerto Rican comfort food. Perfect for smart casual/sundresses. |
 | Price | $$$ |
-| Location | Miramar (~12 min Uber) |
-| Reservations | **Booked!** (7:30 PM, 4 Guests, Dining Room) |
+| Location | 605 Av. Miramar, San Juan, 00907 (~12 min Uber) |
+| Reservations | **Booked!** (7:30 PM, 4 Guests, Dining Room via Resy) |
 
 ---
 
@@ -236,7 +236,7 @@ Based on the **Standard King** room:
 | Item | Amount |
 |------|--------|
 | ✈️ Flights | Booked separately |
-| 🏨 Hotel | Booked separately |
+| 🏨 Hotel (Oceanside Villa Terrace) | $3,167 |
 | ⛵ **Pre-Booked Excursions & Transport (Split per couple)** | **$1,614.07** |
 | └ Catamaran ($2,274 total) | |
 | └ Food Tour ($706.28 total) | |
@@ -245,7 +245,6 @@ Based on the **Standard King** room:
 | 🍽️ Dinners, lunches, drinks | $400–$600 |
 | 🚗 Ubers, tips, incidentals | $200–$300 |
 
-**Upgrade option:** Oceanside Villa Terrace adds ~$1,272/couple (527 sq ft, private terrace, steps from sand).
 
 ---
 
