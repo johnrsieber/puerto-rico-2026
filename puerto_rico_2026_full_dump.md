@@ -123,7 +123,7 @@ e:\OneDrive\Documents\Travel\2026 - Puerto Rico\
 ## 5. Day-by-Day Itinerary
 
 ### Day 1 — Wednesday, July 29: 🎂 Birthday Arrival
-- Land at SJU at 3:47 PM, 10-min ride to hotel
+- Land at SJU at 3:47 PM, pick up Avis rental car, 10-min ride to hotel
 - Check into Fairmont El San Juan
 - Beach welcome toast with the crew
 - **Birthday Dinner (Booked for 7:30 PM):** Caña by José Enrique (on-property, James Beard finalist)
@@ -131,7 +131,7 @@ e:\OneDrive\Documents\Travel\2026 - Puerto Rico\
 ### Day 2 — Thursday, July 30: ⛵ Private Catamaran
 - Private 38-foot Lagoon 380 sailing catamaran with Captain Iván
 - 8 hours, 4 guests (exclusively ours)
-- **Marina:** Puerto del Rey, Fajardo (45 min drive)
+- **Marina:** Puerto del Rey, Fajardo (45 min drive in rental car)
 - **Schedule:** Meet 8:30 AM, depart 9 AM, return 5 PM
 - **Destinations:** Palomino Island or Piñeros Island (La Cordillera Nature Reserve)
 - **Included:** BBQ lunch, beer, wine, homemade sangría, snorkeling gear, insurance
@@ -152,7 +152,7 @@ e:\OneDrive\Documents\Travel\2026 - Puerto Rico\
 - **Luquillo Kiosks (Lunch):** Famous strip of 60+ beachside food vendors just outside the forest
 - **Afternoon:** Head back to the hotel to clean up and relax.
 - **Evening (4:00 PM - 7:00 PM):** **Sunset Walk & Taste Food Tour** with The Spoon Experience in Old San Juan. (Replaces a sit-down dinner).
-- **Transport:** Rent a car for the day (Ubers cannot pick up inside the forest).
+- **Transport:** Drive rental car to El Yunque. Drop off car at SJU by 3:00 PM before Ubering to food tour.
 - **Cost:** ~$150–$250/couple (transport, park entry, lunch)
 
 ### Day 4 — Saturday, August 1: 🏖️ Pure Beach Day
@@ -238,10 +238,10 @@ Based on the **Standard King** room:
 |------|--------|
 | ✈️ Flights | Booked separately |
 | 🏨 Hotel | Booked separately |
-| ⛵ **Pre-Booked Excursions (Split per couple)** | **$1,490.14** |
+| ⛵ **Pre-Booked Excursions & Transport (Split per couple)** | **$1,614.07** |
 | └ Catamaran ($2,274 total) | |
 | └ Food Tour ($706.28 total) | |
-| 🚗 Rental Car (El Yunque Day) | TBD |
+| └ Avis Rental Car ($247.86 total) | |
 | 🌿 El Yunque park entry & lunch | $100–$150 |
 | 🍽️ Dinners, lunches, drinks | $400–$600 |
 | 🚗 Ubers, tips, incidentals | $200–$300 |
@@ -254,9 +254,8 @@ Based on the **Standard King** room:
 
 - **Weather:** ~87°F, sunny, trade winds, brief showers possible
 - **No Passport:** US territory — driver's license only, US dollars everywhere
-- **Getting Around:** Uber is reliable. Rent 1 car for El Yunque day only
-- **Trip Insurance:** CFAR (Cancel For Any Reason) recommended — hurricane season. ~$460/couple. Must buy within 14 days of first deposit
-- **Hurricane Season:** Late July is early hurricane season
+- **Getting Around:** We have a rental car for the first few days (Catamaran & El Yunque), and Uber is reliable for local trips around San Juan.
+- **Hurricane Season:** Late July is technically early hurricane season, though severe storms are rare that early.
 - **Club Brava:** On-property nightclub — no Uber needed
 
 ### Booking Order (displayed on website)
