@@ -151,7 +151,7 @@ e:\OneDrive\Documents\Travel\2026 - Puerto Rico\
 - **Yokahu Tower:** Panoramic views; on clear days, see the Virgin Islands
 - **Luquillo Kiosks (Lunch):** Famous strip of 60+ beachside food vendors just outside the forest
 - **Afternoon:** Head back to the hotel to clean up and relax.
-- **Evening (4:00 PM - 7:00 PM):** **Booked! Sunset Walk & Taste Food Tour** with The Spoon Experience in Old San Juan. Tour starts at 4:00 PM. (Replaces a sit-down dinner).
+- **Evening (4:00 PM - 7:00 PM):** **Booked! Sunset Walk & Taste Food Tour** with The Spoon Experience in Old San Juan. Tour starts at 4:00 PM. Meeting location: Plaza de la Catedral San Juan, San Juan 00901. (Replaces a sit-down dinner).
 - **Transport:** Drive rental car to El Yunque. Drop off car at SJU by 3:00 PM before Ubering to food tour.
 - **Cost:** ~$150–$250/couple (transport, park entry, lunch)
 
@@ -200,7 +200,7 @@ All dinner reservations have been made! Check the specific details below.
 | **Pick** | **The Spoon Experience Walk & Taste Tour** |
 | Why | Replaces a sit-down dinner with a fun, lively walking tour of Old San Juan. Includes history, architecture, local food (mofongo!), and cocktails. Wear comfy walking shoes (no heels!). |
 | Price | $$$ |
-| Location | Old San Juan (~15 min Uber) - Meeting location in tickets |
+| Location | Plaza de la Catedral San Juan, San Juan 00901 (~15 min Uber) |
 | Reservations | **Booked!** ($706.28 total for 4 adults). Tour starts at 4:00 PM. |
 
 ### Night 4 (Sat, Aug 1) — Farewell Dinner
